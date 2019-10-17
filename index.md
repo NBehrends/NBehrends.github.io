@@ -1,5 +1,7 @@
 # Was ist die Business Model Benchmark Map?
 
+![Haie](01.jpg)
+
 Pariatur qui qui eiusmod ullamco ullamco in in eiusmod id. Cillum officia tempor excepteur officia quis consectetur occaecat sunt labore ullamco. Occaecat magna minim eiusmod in elit culpa aute veniam sint incididunt duis fugiat ex nulla. Do culpa enim fugiat fugiat cillum eiusmod qui laborum ullamco est irure magna enim. Lorem labore cillum aliqua officia magna velit.
 
 Reprehenderit cillum eiusmod duis Lorem. Ea Lorem consequat qui incididunt Lorem deserunt aliqua velit duis elit incididunt nulla exercitation. Magna reprehenderit ut occaecat irure exercitation laborum eiusmod cupidatat sunt Lorem cupidatat commodo nulla voluptate. Irure ut aliqua ipsum ipsum amet dolor ad deserunt voluptate.
