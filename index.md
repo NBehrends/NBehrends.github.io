@@ -1,9 +1,10 @@
-# Was ist die Business Model Benchmark Map?
+## Startups - Von der Produktidee bis hin zur Marktreife
 
 ![Haie](01.jpg)
 [Fische](blog/fische.md)
 
-1 Einleitung
+# 1 Einleitung
+
 Dieses Paper befasst sich mit der
 Fragestellung, was ein Startup
 Unternehmen machen muss, um sich auf
@@ -26,7 +27,8 @@ Produkte auf dem Markt verhalten. Es
 folgt ein Fazit, in welchem die vorab
 gestellte Fragestellung beantwortet wird.
 
-2 Ein – was ist das?
+# 2 Ein Startup – was ist das?
+
 Ein Startup ist in der Definition ein junges und
 technologiebezogenes Unternehmen mit einer
 innovativen Idee. Es hat sich noch nicht auf
@@ -66,8 +68,8 @@ geeigneten Investor zu finden (Denkel, 2018,
 S.61). Um einen geeigneten Investor für sich zu
 gewinnen, benötigt jedes Unternehmen einen
 Businessplan mit den zu erwartenden
-Absätzen für die nächsten Jahre und einen guten Pitch seines Produktes (Denkel, 2018,
-S.65).
+Absätzen für die nächsten Jahre und einen guten
+Pitch seines Produktes (Denkel, 2018,S.65).
 Die Höhle der Löwen, welche seit 2014 im
 Fernsehen zu sehen ist, bietet jungen
 Gründern diese Möglichkeit (Vieser, 2019, S.
@@ -85,7 +87,8 @@ und Erfahrung. Sie tragen dazu bei, dass
 Startups schnell wachsen können (Thelen,
 2018, S.116-140).
 
-3 Die Produkteinführung
+# 3 Die Produkteinführung
+
 Um überhaupt ein Startup gründen zu können,
 wird zunächst eine Geschäftsidee benötigt,
 welche eine Innovation mit sich bringt. Die
@@ -216,7 +219,6 @@ ermöglichen, sollte also mit der Entwicklung
 eines neuen Produktes in Horizont 2 ein bis
 zwei Jahre vor dem stagnieren des aktuellen
 Wachstums begonnen werden.
-4
 In Horizont 3 werden Entwicklung in 18 bis 36
 Monaten in der Zukunft produziert und viele
 Ideen parallel bearbeitet. Es geht darum, mit
@@ -229,7 +231,8 @@ Abbildung 3: Das 3-Horizont-Modell
 ![Haie](01.jpg)
 [Quelle: Kreutzer, 2018, S.81-84.](blog/fische.md)
 
-4 Fazit
+# 4 Fazit
+
 Abschließend ist zu sagen, dass ein Startup
 einen langen Weg vor sich hat, bis es im
 Markt etabliert ist. Der Grad der Innovation
@@ -259,6 +262,63 @@ des Produktes und die vorhandenen
 Beziehungen, welche die Etablierung auf
 dem Markt zunehmend erleichtern.
 
-## Referenzen
+# 5 Literaturverzeichnis
+
+Aumayr, K. (2016). Erfolgreiches
+Produktmanagement. Tool-Box für das
+professionelle Produktmanagement und
+Produktmarketing. Wiesbaden: Springer
+Gabler.
+Bhidé, A. (1999). Bootstrap Finance. The art of
+start-ups. In Sahlman et al. (Hrsg.). The
+entrepreneurial venture (S. 223-237). Boston:
+Harvard School Press.
+Bruhn, M. (2010). Grundlagen für Studium
+und Praxis. Wiesbaden: Springer Verlag.
+Denkel, A. (2018). Innovativer Unternehmer
+versus Startup-Gründer. Unterschiede und
+Gemeinsamkeiten. Wiesbaden: Springer
+Gabler.
+Hahn, D. (1993). Planung in der
+Unternehmenspraxis. In J. Hauschildt, O.
+Grün (Hrsg.), Ergebnisse empirischer
+betriebswirtschaftlicher Forschung. Zu einer
+Realtheorie der Unternehmen (S.773-796).
+Stuttgart: Schäffer-Poeschel Verlag.
+Jacobsen, N. (2017). Das Apple-Imperium 2.0.
+Die neuen Herausforderungen des
+wertvollsten Konzerns der Welt (2. Auflage).
+Wiesbaden: Springer Fachmedien Wiesbaden.
+Kreutzer, R. T. (2018). Toolbox für Marketing
+und Management. Kreativkonzepte –
+Analysewerkzeuge – Prognoseinstrumente.
+Wiesbaden: Springer-Verlag.
+Lodish, L., Morgen, H. und Kallianpur, A.
+(2001). Entrepreneurial Marketing. Kanada:
+John Wiley & Sons.
+Maier, R., R. und Mies, R. (2019). Entwicklung
+eines Anlaufmodells für das Lean Start-up.
+ZWF Zeitschrift für wirtschaftlichen
+Fabrikbetrieb. 2019 (4), 173- 177, DOI:
+ZWF_20190429_173_01_04.
+Melles, A. (2017). Produkteinführung.
+Wiesbaden: Springer-Verlag GmbH.
+Schawel, C. und Billing, F. (2012). Top 100
+Management Tools. Das wichtigste Buch eines
+Managers Von ABC-Analyse bis
+Zielvereinbarung. Wiesbaden: Gabler Verlag.
+Schnedler, J. (2018). Startup-Recht.
+Praktischer Leitfaden für Gründung,
+Unternehmensführung und -finanzierung.
+Heidelberg: O’Reillys.
+Thelen, F. (2018). Die Autobiografie. Startup-
+DNA - Hinfallen, aufstehen, die Welt
+verändern. Hamburg: Murmann Publishers
+GmbH.
+Vieser, S. (2019). Möge die Show
+beginnen. HORIZONTmagazin. 2019 (15),
+42-43, DOI: 20190411492632.
+Verwendete Bilder dieser Arbeit:
+https://unsplash.com/
 
 [Zidowz, H (2019)](https://ulrich-anders.eu)
