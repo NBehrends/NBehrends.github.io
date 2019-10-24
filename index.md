@@ -1,7 +1,6 @@
 # Startups - Von der Produktidee bis hin zur Marktreife
 
-![Haie](01.jpg)
-[Fische](blog/fische.md)
+![Startup](02.jpg)
 
 ## 1 Einleitung
 
@@ -113,8 +112,7 @@ eine frühzeitige Marktetablierung erfolgsversprechender
 ist als eine lange Vorabplanung
 (Maier und Mies, 2019, S. 173-177).
 
-![Haie](01.jpg)
-[Fische](blog/fische.md)
+![Passion](02.jpg)
 
 Nach einer erfolgten Marktanalyse wird
 bestimmt, welche Zielgruppe mit dem Produkt
