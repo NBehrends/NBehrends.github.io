@@ -191,7 +191,7 @@ anstelle ein neues Nachfolgeprodukt etabliert
 werden soll (Schawel und Billing, 2012, S. 207-
 209).
 
-**Abbildung 2: Der Produktlebenszyklus**
+### Abbildung 2: Der Produktlebenszyklus
 
 ![Haie](01.jpg)
 [Quelle: Aumayr, 2016, S. 262.](blog/fische.md)
@@ -228,7 +228,7 @@ Optionen für die Zukunft zu sichern. Damit
 soll eine zukünftige Marktentwicklung
 gesichert werden (Kreutzer, 2018, S.81-84).
 
-**Abbildung 3: Das 3-Horizont-Modell**
+### Abbildung 3: Das 3-Horizont-Modell
 
 ![Haie](01.jpg)
 [Quelle: Kreutzer, 2018, S.81-84.](blog/fische.md)
