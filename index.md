@@ -1,9 +1,9 @@
-## Startups - Von der Produktidee bis hin zur Marktreife
+# Startups - Von der Produktidee bis hin zur Marktreife
 
 ![Haie](01.jpg)
 [Fische](blog/fische.md)
 
-# 1 Einleitung
+## 1 Einleitung
 
 Dieses Paper befasst sich mit der
 Fragestellung, was ein Startup
@@ -27,7 +27,7 @@ Produkte auf dem Markt verhalten. Es
 folgt ein Fazit, in welchem die vorab
 gestellte Fragestellung beantwortet wird.
 
-# 2 Ein Startup – was ist das?
+## 2 Ein Startup – was ist das?
 
 Ein Startup ist in der Definition ein junges und
 technologiebezogenes Unternehmen mit einer
@@ -87,7 +87,7 @@ und Erfahrung. Sie tragen dazu bei, dass
 Startups schnell wachsen können (Thelen,
 2018, S.116-140).
 
-# 3 Die Produkteinführung
+## 3 Die Produkteinführung
 
 Um überhaupt ein Startup gründen zu können,
 wird zunächst eine Geschäftsidee benötigt,
@@ -192,6 +192,7 @@ werden soll (Schawel und Billing, 2012, S. 207-
 209).
 
 **Abbildung 2: Der Produktlebenszyklus**
+
 ![Haie](01.jpg)
 [Quelle: Aumayr, 2016, S. 262.](blog/fische.md)
 
@@ -228,10 +229,11 @@ soll eine zukünftige Marktentwicklung
 gesichert werden (Kreutzer, 2018, S.81-84).
 
 **Abbildung 3: Das 3-Horizont-Modell**
+
 ![Haie](01.jpg)
 [Quelle: Kreutzer, 2018, S.81-84.](blog/fische.md)
 
-# 4 Fazit
+## 4 Fazit
 
 Abschließend ist zu sagen, dass ein Startup
 einen langen Weg vor sich hat, bis es im
@@ -262,7 +264,7 @@ des Produktes und die vorhandenen
 Beziehungen, welche die Etablierung auf
 dem Markt zunehmend erleichtern.
 
-# 5 Literaturverzeichnis
+## 5 Literaturverzeichnis
 
 Aumayr, K. (2016). Erfolgreiches
 Produktmanagement. Tool-Box für das
