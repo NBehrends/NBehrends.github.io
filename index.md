@@ -191,10 +191,10 @@ anstelle ein neues Nachfolgeprodukt etabliert
 werden soll (Schawel und Billing, 2012, S. 207-
 209).
 
-### Abbildung 2: Der Produktlebenszyklus
+**Abbildung 2: Der Produktlebenszyklus**
 
-![Haie](01.jpg)
-[Quelle: Aumayr, 2016, S. 262.](blog/fische.md)
+![Haie](Produktlebenszyklus.jpg)
+[Quelle: Aumayr, 2016, S. 262.]
 
 Damit bereits ein Nachfolgeprodukt in den
 Startlöchern steht sobald die Degenerationsphase
@@ -228,10 +228,10 @@ Optionen für die Zukunft zu sichern. Damit
 soll eine zukünftige Marktentwicklung
 gesichert werden (Kreutzer, 2018, S.81-84).
 
-### Abbildung 3: Das 3-Horizont-Modell
+**Abbildung 3: Das 3-Horizont-Modell**
 
-![Haie](01.jpg)
-[Quelle: Kreutzer, 2018, S.81-84.](blog/fische.md)
+![3 Horitont Modell](Horizontmodell.jpg)
+[Quelle: Kreutzer, 2018, S.81-84.]
 
 ## 4 Fazit
 
@@ -302,7 +302,7 @@ Maier, R., R. und Mies, R. (2019). Entwicklung
 eines Anlaufmodells für das Lean Start-up.
 ZWF Zeitschrift für wirtschaftlichen
 Fabrikbetrieb. 2019 (4), 173- 177, DOI:
-ZWF_20190429_173_01_04.
+ZWF_20190429_173_01_04. ![Link](1.pdf)
 Melles, A. (2017). Produkteinführung.
 Wiesbaden: Springer-Verlag GmbH.
 Schawel, C. und Billing, F. (2012). Top 100
@@ -319,7 +319,7 @@ verändern. Hamburg: Murmann Publishers
 GmbH.
 Vieser, S. (2019). Möge die Show
 beginnen. HORIZONTmagazin. 2019 (15),
-42-43, DOI: 20190411492632.
+42-43, DOI: 20190411492632. ![Link](2.pdf)
 Verwendete Bilder dieser Arbeit:
 https://unsplash.com/
 
