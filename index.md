@@ -25,6 +25,7 @@ Produkteinführung aussehen und wie sich
 Produkte auf dem Markt verhalten. Es
 folgt ein Fazit, in welchem die vorab
 gestellte Fragestellung beantwortet wird.
+
 2 Ein – was ist das?
 Ein Startup ist in der Definition ein junges und
 technologiebezogenes Unternehmen mit einer
@@ -65,31 +66,7 @@ geeigneten Investor zu finden (Denkel, 2018,
 S.61). Um einen geeigneten Investor für sich zu
 gewinnen, benötigt jedes Unternehmen einen
 Businessplan mit den zu erwartenden
-Absätzen für die nächsten Jahre und einen
-1 Einleitung
-Dieses Paper befasst sich mit der
-Fragestellung, was ein Startup
-Unternehmen machen muss, um sich auf
-dem Markt zu etablieren. Außerdem stellt
-es die Unterschiede bei der
-Produkteinführung zwischen einem
-bereits etablierten Unternehmen und
-einem Startup dar. Es zielt darauf aus, was
-nötig ist, um von einem Startup zu einem
-erfolgreichen Unternehmen wachsen zu
-können. In den folgenden Kapiteln wird
-zunächst der Begriff Startup definiert,
-woraufhin die größten Unterschiede
-zwischen einem etablierten Unternehmen
-und einem Startup erläutert werden. In
-Kapitel 3 wird anschließend aufgezeigt,
-wie die Unterschiede bei der
-Produkteinführung aussehen und wie sich
-Produkte auf dem Markt verhalten. Es
-folgt ein Fazit, in welchem die vorab
-gestellte Fragestellung beantwortet wird.
-2
-guten Pitch seines Produktes (Denkel, 2018,
+Absätzen für die nächsten Jahre und einen guten Pitch seines Produktes (Denkel, 2018,
 S.65).
 Die Höhle der Löwen, welche seit 2014 im
 Fernsehen zu sehen ist, bietet jungen
@@ -107,6 +84,7 @@ begleiten diese anschließend mit Geld, Wissen
 und Erfahrung. Sie tragen dazu bei, dass
 Startups schnell wachsen können (Thelen,
 2018, S.116-140).
+
 3 Die Produkteinführung
 Um überhaupt ein Startup gründen zu können,
 wird zunächst eine Geschäftsidee benötigt,
@@ -131,6 +109,10 @@ hierbei besagt, dass Learning-by-doing und
 eine frühzeitige Marktetablierung erfolgsversprechender
 ist als eine lange Vorabplanung
 (Maier und Mies, 2019, S. 173-177).
+
+![Haie](01.jpg)
+[Fische](blog/fische.md)
+
 Nach einer erfolgten Marktanalyse wird
 bestimmt, welche Zielgruppe mit dem Produkt
 erreicht werden soll, welche Eintrittsbarrieren
@@ -167,7 +149,6 @@ Einführungsphase des Produktes startet. In
 dieser ist noch unklar, wie das Produkt von
 den Kunden aufgenommen wird. Die Länge
 der Einführungsphase hängt dabei stark von
-3
 der Innovation des Produktes ab. Es lassen sich
 zu Beginn nur geringe Umsätze erzielen,
 welche allerdings hohen Kosten zur
@@ -206,8 +187,11 @@ ob das Produkt vom Markt genommen und
 anstelle ein neues Nachfolgeprodukt etabliert
 werden soll (Schawel und Billing, 2012, S. 207-
 209).
+
 Abbildung 2: Der Produktlebenszyklus
-Quelle: Aumayr, 2016, S. 262.
+![Haie](01.jpg)
+[Quelle: Aumayr, 2016, S. 262.](blog/fische.md)
+
 Damit bereits ein Nachfolgeprodukt in den
 Startlöchern steht sobald die Degenerationsphase
 eintritt, gilt es für Unternehmen, das 3-
@@ -240,8 +224,11 @@ wenig Aufwand und geringen Kosten viele
 Optionen für die Zukunft zu sichern. Damit
 soll eine zukünftige Marktentwicklung
 gesichert werden (Kreutzer, 2018, S.81-84).
+
 Abbildung 3: Das 3-Horizont-Modell
-Quelle: Kreutzer, 2018, S.81-84.
+![Haie](01.jpg)
+[Quelle: Kreutzer, 2018, S.81-84.](blog/fische.md)
+
 4 Fazit
 Abschließend ist zu sagen, dass ein Startup
 einen langen Weg vor sich hat, bis es im
