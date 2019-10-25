@@ -111,9 +111,6 @@ hierbei besagt, dass Learning-by-doing und
 eine frühzeitige Marktetablierung erfolgsversprechender
 ist als eine lange Vorabplanung
 (Maier und Mies, 2019, S. 173-177).
-
-![Passion](02.jpg)
-
 Nach einer erfolgten Marktanalyse wird
 bestimmt, welche Zielgruppe mit dem Produkt
 erreicht werden soll, welche Eintrittsbarrieren
