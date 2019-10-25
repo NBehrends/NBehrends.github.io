@@ -1,6 +1,6 @@
 # Startups - Von der Produktidee bis hin zur Marktreife
 
-![Startup](02.jpg)
+![Startup](03.jpg)
 
 ## 1 Einleitung
 
@@ -192,7 +192,7 @@ werden soll (Schawel und Billing, 2012, S. 207-
 **Abbildung 2: Der Produktlebenszyklus**
 
 ![Haie](Produktlebenszyklus.jpg)
-[Quelle: Aumayr, 2016, S. 262.]
+Quelle: Aumayr, 2016, S. 262.
 
 Damit bereits ein Nachfolgeprodukt in den
 Startlöchern steht sobald die Degenerationsphase
@@ -229,7 +229,7 @@ gesichert werden (Kreutzer, 2018, S.81-84).
 **Abbildung 3: Das 3-Horizont-Modell**
 
 ![3 Horitont Modell](Horizontmodell.jpg)
-[Quelle: Kreutzer, 2018, S.81-84.]
+Quelle: Kreutzer, 2018, S.81-84.
 
 ## 4 Fazit
 
@@ -296,11 +296,7 @@ Wiesbaden: Springer-Verlag.
 Lodish, L., Morgen, H. und Kallianpur, A.
 (2001). Entrepreneurial Marketing. Kanada:
 John Wiley & Sons.
-Maier, R., R. und Mies, R. (2019). Entwicklung
-eines Anlaufmodells für das Lean Start-up.
-ZWF Zeitschrift für wirtschaftlichen
-Fabrikbetrieb. 2019 (4), 173- 177, DOI:
-ZWF_20190429_173_01_04. ![Link](1.pdf)
+[Maier, R., R. und Mies, R. (2019). Entwicklung eines Anlaufmodells für das Lean Start-up. ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb. 2019 (4), 173- 177, DOI: ZWF_20190429_173_01_04.](1.pdf)
 Melles, A. (2017). Produkteinführung.
 Wiesbaden: Springer-Verlag GmbH.
 Schawel, C. und Billing, F. (2012). Top 100
@@ -315,9 +311,7 @@ Thelen, F. (2018). Die Autobiografie. Startup-
 DNA - Hinfallen, aufstehen, die Welt
 verändern. Hamburg: Murmann Publishers
 GmbH.
-Vieser, S. (2019). Möge die Show
-beginnen. HORIZONTmagazin. 2019 (15),
-42-43, DOI: 20190411492632. ![Link](2.pdf)
+[Vieser, S. (2019). Möge die Show beginnen. HORIZONTmagazin. 2019 (15), 42-43, DOI: 20190411492632.](2.pdf)
 Verwendete Bilder dieser Arbeit:
 https://unsplash.com/
 
