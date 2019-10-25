@@ -235,6 +235,8 @@ Quelle: Kreutzer, 2018, S.81-84.
 
 ## 4 Fazit
 
+# fazit
+
 Abschließend ist zu sagen, dass ein Startup
 einen langen Weg vor sich hat, bis es im
 Markt etabliert ist. Der Grad der Innovation
