@@ -2,6 +2,15 @@
 
 ![Startup](03.jpg)
 
+## Agenda
+
+1 Einleitung ............................................... 1
+2 Ein Startup – was ist das? ............................... 1
+3 Die Produkteinführung .................................... 2
+4 Fazit .................................................... 4
+5 Literaturverzeichnis
+6 Anhang
+
 ## 1 Einleitung
 
 Dieses Paper befasst sich mit der
