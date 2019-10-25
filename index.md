@@ -2,7 +2,11 @@
 
 ![Startup](03.jpg)
 
+# 1 Einleitung
+
 ## 1 Einleitung
+
+### 1 Einleitung
 
 Dieses Paper befasst sich mit der
 Fragestellung, was ein Startup
@@ -192,6 +196,7 @@ werden soll (Schawel und Billing, 2012, S. 207-
 **Abbildung 2: Der Produktlebenszyklus**
 
 ![Haie](Produktlebenszyklus.jpg)
+
 Quelle: Aumayr, 2016, S. 262.
 
 Damit bereits ein Nachfolgeprodukt in den
@@ -229,6 +234,7 @@ gesichert werden (Kreutzer, 2018, S.81-84).
 **Abbildung 3: Das 3-Horizont-Modell**
 
 ![3 Horitont Modell](Horizontmodell.jpg)
+
 Quelle: Kreutzer, 2018, S.81-84.
 
 ## 4 Fazit
@@ -324,5 +330,5 @@ GmbH.
 
 [**Vieser**, S. (2019).](2.pdf) Möge die Show beginnen. HORIZONTmagazin. 2019 (15), 42-43, DOI: 20190411492632.
 
-Verwendete Bilder dieser Arbeit:
+Verwendete Bilder dieser Arbeit von
 [unsplash](https://unsplash.com/)
