@@ -264,55 +264,65 @@ dem Markt zunehmend erleichtern.
 
 ## 5 Literaturverzeichnis
 
-Aumayr, K. (2016). Erfolgreiches
+**Aumayr**, K. (2016). Erfolgreiches
 Produktmanagement. Tool-Box für das
 professionelle Produktmanagement und
 Produktmarketing. Wiesbaden: Springer
 Gabler.
-Bhidé, A. (1999). Bootstrap Finance. The art of
+
+**Bhidé**, A. (1999). Bootstrap Finance. The art of
 start-ups. In Sahlman et al. (Hrsg.). The
 entrepreneurial venture (S. 223-237). Boston:
 Harvard School Press.
-Bruhn, M. (2010). Grundlagen für Studium
+
+**Bruhn**, M. (2010). Grundlagen für Studium
 und Praxis. Wiesbaden: Springer Verlag.
-Denkel, A. (2018). Innovativer Unternehmer
+
+**Denkel**, A. (2018). Innovativer Unternehmer
 versus Startup-Gründer. Unterschiede und
 Gemeinsamkeiten. Wiesbaden: Springer
 Gabler.
-Hahn, D. (1993). Planung in der
+
+**Hahn**, D. (1993). Planung in der
 Unternehmenspraxis. In J. Hauschildt, O.
 Grün (Hrsg.), Ergebnisse empirischer
 betriebswirtschaftlicher Forschung. Zu einer
 Realtheorie der Unternehmen (S.773-796).
 Stuttgart: Schäffer-Poeschel Verlag.
-Jacobsen, N. (2017). Das Apple-Imperium 2.0.
+
+**Jacobsen**, N. (2017). Das Apple-Imperium 2.0.
 Die neuen Herausforderungen des
 wertvollsten Konzerns der Welt (2. Auflage).
 Wiesbaden: Springer Fachmedien Wiesbaden.
-Kreutzer, R. T. (2018). Toolbox für Marketing
+
+**Kreutzer**, R. T. (2018). Toolbox für Marketing
 und Management. Kreativkonzepte –
 Analysewerkzeuge – Prognoseinstrumente.
 Wiesbaden: Springer-Verlag.
-Lodish, L., Morgen, H. und Kallianpur, A.
+
+**Lodish**, L., Morgen, H. und Kallianpur, A.
 (2001). Entrepreneurial Marketing. Kanada:
 John Wiley & Sons.
-[Maier, R., R. und Mies, R. (2019). Entwicklung eines Anlaufmodells für das Lean Start-up. ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb. 2019 (4), 173- 177, DOI: ZWF_20190429_173_01_04.](1.pdf)
-Melles, A. (2017). Produkteinführung.
-Wiesbaden: Springer-Verlag GmbH.
-Schawel, C. und Billing, F. (2012). Top 100
+
+[**Maier**, R., R. und Mies, R. (2019).](1.pdf) Entwicklung eines Anlaufmodells für das Lean Start-up. ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb. 2019 (4), 173- 177, DOI: ZWF_20190429_173_01_04.
+Melles, A. (2017). Produkteinführung. Wiesbaden: Springer-Verlag GmbH.
+
+**Schawel**, C. und Billing, F. (2012). Top 100
 Management Tools. Das wichtigste Buch eines
 Managers Von ABC-Analyse bis
 Zielvereinbarung. Wiesbaden: Gabler Verlag.
-Schnedler, J. (2018). Startup-Recht.
+
+**Schnedler**, J. (2018). Startup-Recht.
 Praktischer Leitfaden für Gründung,
 Unternehmensführung und -finanzierung.
 Heidelberg: O’Reillys.
-Thelen, F. (2018). Die Autobiografie. Startup-
+
+**Thelen**, F. (2018). Die Autobiografie. Startup-
 DNA - Hinfallen, aufstehen, die Welt
 verändern. Hamburg: Murmann Publishers
 GmbH.
-[Vieser, S. (2019). Möge die Show beginnen. HORIZONTmagazin. 2019 (15), 42-43, DOI: 20190411492632.](2.pdf)
-Verwendete Bilder dieser Arbeit:
-https://unsplash.com/
 
-[Zidowz, H (2019)](https://ulrich-anders.eu)
+[**Vieser**, S. (2019).](2.pdf) Möge die Show beginnen. HORIZONTmagazin. 2019 (15), 42-43, DOI: 20190411492632.
+
+Verwendete Bilder dieser Arbeit:
+[unsplash](https://unsplash.com/)
