@@ -2,11 +2,7 @@
 
 ![Startup](03.jpg)
 
-# 1 Einleitung
-
 ## 1 Einleitung
-
-### 1 Einleitung
 
 Dieses Paper befasst sich mit der
 Fragestellung, was ein Startup
@@ -30,7 +26,7 @@ Produkte auf dem Markt verhalten. Es
 folgt ein Fazit, in welchem die vorab
 gestellte Fragestellung beantwortet wird.
 
-## 2 Ein Startup – was ist das?
+## 2 Ein Startup - was ist das?
 
 Ein Startup ist in der Definition ein junges und
 technologiebezogenes Unternehmen mit einer
