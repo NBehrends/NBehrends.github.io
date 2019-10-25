@@ -26,6 +26,8 @@ Produkte auf dem Markt verhalten. Es
 folgt ein Fazit, in welchem die vorab
 gestellte Fragestellung beantwortet wird.
 
+# 2 Ein Startup - was ist das?
+
 ## 2 Ein Startup - was ist das?
 
 Ein Startup ist in der Definition ein junges und
@@ -85,6 +87,8 @@ begleiten diese anschließend mit Geld, Wissen
 und Erfahrung. Sie tragen dazu bei, dass
 Startups schnell wachsen können (Thelen,
 2018, S.116-140).
+
+# 3 Die Produkteinführung
 
 ## 3 Die Produkteinführung
 
@@ -233,6 +237,8 @@ gesichert werden (Kreutzer, 2018, S.81-84).
 
 Quelle: Kreutzer, 2018, S.81-84.
 
+# 4 Fazit
+
 ## 4 Fazit
 
 Abschließend ist zu sagen, dass ein Startup
@@ -263,6 +269,8 @@ Startup ist somit der Grad der Innovation
 des Produktes und die vorhandenen
 Beziehungen, welche die Etablierung auf
 dem Markt zunehmend erleichtern.
+
+# 5 Literaturverzeichnis
 
 ## 5 Literaturverzeichnis
 
