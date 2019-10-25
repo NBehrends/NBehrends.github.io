@@ -4,11 +4,16 @@
 
 ## Agenda
 
-1 Einleitung #
+1 Einleitung
+
 2 Ein Startup – was ist das?
+
 3 Die Produkteinführung
+
 4 Fazit
+
 5 Literaturverzeichnis
+
 6 Anhang
 
 ## 1 Einleitung
